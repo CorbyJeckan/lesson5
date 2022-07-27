@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.1.32319.34
+VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson5", "lesson5\lesson5.csproj", "{DAA745CF-3653-479C-95F4-11233482FC98}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPintro", "OOPintro\OOPintro.csproj", "{2B7EA70C-B2CA-4E48-B17B-491386FE065D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DAA745CF-3653-479C-95F4-11233482FC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DAA745CF-3653-479C-95F4-11233482FC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DAA745CF-3653-479C-95F4-11233482FC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DAA745CF-3653-479C-95F4-11233482FC98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7EA70C-B2CA-4E48-B17B-491386FE065D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7EA70C-B2CA-4E48-B17B-491386FE065D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7EA70C-B2CA-4E48-B17B-491386FE065D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7EA70C-B2CA-4E48-B17B-491386FE065D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D909BCF9-223E-4E1B-A5C4-A0156B44E138}
+		SolutionGuid = {777636A6-F87B-458B-8E7A-0D43A2EE7B4F}
 	EndGlobalSection
 EndGlobal
